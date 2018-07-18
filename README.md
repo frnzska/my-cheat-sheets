@@ -1,1 +1,1 @@
-cheet sheats
+cheat sheets
