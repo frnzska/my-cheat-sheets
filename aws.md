@@ -15,5 +15,7 @@
 ### EC2
 | what                     | command       
 | ------------------------ |:-------------
-| **describe instances**   | `aws ec2 describe-instances`
+| **describe instances**   | `aws ec2 describe-instances` <br> `aws ec2 describe-instances --region eu-west-1`
 | **describe key pairs**   | `aws ec2 describe-key-pairs`
+
+### 
