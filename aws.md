@@ -15,7 +15,9 @@
 ### EC2
 | what                     | command       
 | ------------------------ |:-------------
-| **describe instances**   | `aws ec2 describe-instances` <br> `aws ec2 describe-instances --region eu-west-1`
+| **describe instances**   | `aws ec2 describe-instances` <br> `aws ec2 describe-instances --region eu-west-1` <br> ` aws ec2 describe-instances --filters Name=instance-state-name,Values=running`
 | **describe key pairs**   | `aws ec2 describe-key-pairs`
 
-### 
+### IAM
+| what                     | command       
+| ------------------------ |:-------------
