@@ -21,3 +21,4 @@
 ### IAM
 | what                     | command       
 | ------------------------ |:-------------
+|  get current user       | ` aws sts get-caller-identity`
